@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	<!-- insert your AIML categories here -->
+	<category>
+<pattern>kapitalisme</pattern><template>
+<button>Het kapitalisme is een economisch systeem dat is gebaseerd op investeringen van geld in de verwachting winst te maken</button>
+<button>De productiemiddelen zijn meestal in privaat eigendom van particuliere ondernemers die daarbij veelal gebruikmaken van loonarbei</button>
+<button>Zij genieten daarbij over een grote mate van juridische vrijheid om over deze middelen te beschikken de vrije ondernemingsgewij</button>
+<button>Deze vrijheid betekent ook dat er sprake is van concurrentie wat maakt dat ondernemers er belang bij hebben om de efficiëntie </button>
+</template></category>
+<category><pattern>mars</pattern><template>
+	<button>Mars kan verwijzen naar </button><button>Mythologie</button><button>Mars mythologie de Romeinse god van de oorlog veel andere betekenissen zijn direct of indirect hieraan ontleendPlaneet</button><button>Mars planeet een planeet in ons zonnestelsel genoemd naar de gelijknamige Romeinse god</button>
+</template></category>
+<category>
+<pattern>grensovergang</pattern><template>
+<button>Een grensovergang is een plaats waar een verkeersweg een landsgrens kruist</button><button>In veel gevallen zijn hier maatregelen getroffen tegen illegale grensoverschrijding van personen of van goederen smokkel</button><button>De doorgang wordt dan gecontroleerd bijvoorbeeld met een slagboom en de douane of een andere overheidsdienst voert controles e</button><button>Binnen gebieden waar een vrij verkeer van personen en goederen geldt bijvoorbeeld de Schengenzone zijn dergelijke maatregelen </button>
+</template></category>
+<category>
+<pattern>overgang</pattern><template>
+<button>Overgang kan verwijzen naar </button><button>de plaats waar men iets kan passeren zoals </button><button>overweg</button><button>dijkovergang</button>
+</template></category>
+</aiml>
